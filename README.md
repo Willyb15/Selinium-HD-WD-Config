@@ -23,3 +23,6 @@ ipconfig
 IPv4 Address ***
 ```
 ###Use the IPv4 address as the localhost
+```
+webdriver-manager update && webdriver-manager start
+```
